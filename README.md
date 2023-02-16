@@ -1,4 +1,4 @@
-# NN-s_For_Disaster_Tweets
+# NN's_For_Disaster_Tweets
 
 This repo has all the code used during an Intro to Machine Learning course that ended in a final project. I chose to do mine on identificaiton of tweets containing 
 information that would be dangerous. An example being that the neural network used for the model could delineate between a tweet saying, "the sky looks like it's on fire 
